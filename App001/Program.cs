@@ -6,7 +6,8 @@ namespace App001
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello word!");
+            //comando que sirve para escribir cosas en consola
+            Console.WriteLine("Hello World!");
         }
     }
 }
