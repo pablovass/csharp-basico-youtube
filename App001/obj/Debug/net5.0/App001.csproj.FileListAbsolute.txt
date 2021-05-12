@@ -1,0 +1,16 @@
+D:\Developer\csharp-basico-youtube\App001\bin\Debug\net5.0\App001.exe
+D:\Developer\csharp-basico-youtube\App001\bin\Debug\net5.0\App001.deps.json
+D:\Developer\csharp-basico-youtube\App001\bin\Debug\net5.0\App001.runtimeconfig.json
+D:\Developer\csharp-basico-youtube\App001\bin\Debug\net5.0\App001.runtimeconfig.dev.json
+D:\Developer\csharp-basico-youtube\App001\bin\Debug\net5.0\App001.dll
+D:\Developer\csharp-basico-youtube\App001\bin\Debug\net5.0\ref\App001.dll
+D:\Developer\csharp-basico-youtube\App001\bin\Debug\net5.0\App001.pdb
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.csprojAssemblyReference.cache
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.AssemblyInfoInputs.cache
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.AssemblyInfo.cs
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.csproj.CoreCompileInputs.cache
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.dll
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\ref\App001.dll
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.pdb
+D:\Developer\csharp-basico-youtube\App001\obj\Debug\net5.0\App001.genruntimeconfig.cache

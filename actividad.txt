@@ -10,7 +10,7 @@ con estos datos debe imprimir un mensaje diciendo si es mayor de edad o no.
 calcule la suma de todos los numeros enteros anteriores
 
 04-* Realizar un programa de consola que permita ingresar 2 valores y 
-encuentr el maximo comun divisor
+encuentre el maximo comun divisor
 
 05-* Realizar un programa de consola que permita ingresar numeros y 
 que termine de pedir numeros cuando se ingresa 0 y calcule el promedio de todos los ingresados
