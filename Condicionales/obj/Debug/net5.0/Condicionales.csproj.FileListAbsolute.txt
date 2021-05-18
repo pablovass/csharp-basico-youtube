@@ -1,0 +1,16 @@
+D:\Developer\csharp-basico-youtube\Condicionales\bin\Debug\net5.0\Condicionales.exe
+D:\Developer\csharp-basico-youtube\Condicionales\bin\Debug\net5.0\Condicionales.deps.json
+D:\Developer\csharp-basico-youtube\Condicionales\bin\Debug\net5.0\Condicionales.runtimeconfig.json
+D:\Developer\csharp-basico-youtube\Condicionales\bin\Debug\net5.0\Condicionales.runtimeconfig.dev.json
+D:\Developer\csharp-basico-youtube\Condicionales\bin\Debug\net5.0\Condicionales.dll
+D:\Developer\csharp-basico-youtube\Condicionales\bin\Debug\net5.0\ref\Condicionales.dll
+D:\Developer\csharp-basico-youtube\Condicionales\bin\Debug\net5.0\Condicionales.pdb
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.csprojAssemblyReference.cache
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.AssemblyInfoInputs.cache
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.AssemblyInfo.cs
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.csproj.CoreCompileInputs.cache
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.dll
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\ref\Condicionales.dll
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.pdb
+D:\Developer\csharp-basico-youtube\Condicionales\obj\Debug\net5.0\Condicionales.genruntimeconfig.cache
