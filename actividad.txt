@@ -14,3 +14,10 @@ encuentre el maximo comun divisor
 
 05-* Realizar un programa de consola que permita ingresar numeros y 
 que termine de pedir numeros cuando se ingresa 0 y calcule el promedio de todos los ingresados
+
+06_* calcular la distancia recorrida (m) por un movil que tiene velocidad constante (m/s) durante un tiempo T (sg), considerando que un MRU (movimiento reitirinio Uniforme)
+
+07-* Se nesesita obtener el promedio simple de un estudiante a partir de sus tres notas
+
+08-* elaborar un algoritmo que solisite el numero de respuestas correctas, incorrectas y en blanco, correspondientes a postulantes , y muestre puntaje final considerando
+ ,que por cada respuestas correcta tendra 4 puntos , respuestas incorrectas tendra -1 y respuestas en blanco tendra 0.
