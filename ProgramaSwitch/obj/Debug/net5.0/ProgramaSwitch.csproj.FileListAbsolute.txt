@@ -1,0 +1,16 @@
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\bin\Debug\net5.0\ProgramaSwitch.exe
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\bin\Debug\net5.0\ProgramaSwitch.deps.json
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\bin\Debug\net5.0\ProgramaSwitch.runtimeconfig.json
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\bin\Debug\net5.0\ProgramaSwitch.runtimeconfig.dev.json
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\bin\Debug\net5.0\ProgramaSwitch.dll
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\bin\Debug\net5.0\ref\ProgramaSwitch.dll
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\bin\Debug\net5.0\ProgramaSwitch.pdb
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.csprojAssemblyReference.cache
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.AssemblyInfoInputs.cache
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.AssemblyInfo.cs
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.csproj.CoreCompileInputs.cache
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.dll
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ref\ProgramaSwitch.dll
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.pdb
+D:\Developer\csharp-basico-youtube\ProgramaSwitch\obj\Debug\net5.0\ProgramaSwitch.genruntimeconfig.cache

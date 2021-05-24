@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wasp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wasp\\.nuget\\packages"
+    ]
+  }
+}
